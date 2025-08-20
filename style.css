@@ -68,5 +68,8 @@ img{
     border-radius: 1rem ;
 }
 
-        /* <div class="choice"> */
+body { background: red; }
+body { background: blue; }
+
+
             /* <img src="./images/scissors.png" /> */
